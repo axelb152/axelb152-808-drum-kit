@@ -1,0 +1,116 @@
+body {
+  text-align: center;
+  background-image: url("images/steve-harvey-_b35lgEvMtw-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: 100%;
+  /* background-color: #283149; */
+}
+
+h1 {
+  text-align: center;
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: 'Space Mono', monospace;
+  text-shadow: 1px 0 black;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2rem;
+  color: #DBEDF3;
+  font-family: 'Space Mono', monospace;
+  text-shadow: 1px 0 black;
+}
+
+footer {
+  color: white;
+  font-family: 'Space Mono', monospace;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  background-color: #fc5404;
+  color: #000;
+}
+
+.w {
+  background-image: url("images/808-Red.png");
+}
+
+.a {
+  background-image: url("images/808-Red.png");
+}
+
+.s {
+  background-image: url("images/808-Orange.png");
+}
+
+.d {
+  background-image: url("images/808-Orange.png");
+}
+
+.j {
+  background-image: url("images/808-Yellow.png");
+}
+
+.k {
+  background-image: url("images/808-Yellow.png");
+}
+
+.l {
+  background-image: url("images/808-White.png");
+}
+
+.i {
+  background-image: url("images/808-White.png");
+}
+
+.set {
+  margin: 10% auto;
+  margin-bottom: 1rem;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Space Mono', monospace;
+  line-height: 2.2;
+  font-weight: 900;
+  color: black;
+  text-shadow: 0.5px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 160px;
+  height: 160px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+.background {
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.highlight {
+  display: inline;
+  padding: .25em 0;
+  background: #000;
+  color: #ffffff;
+  box-shadow: .25em 0 0 #000, -.25em 0 0 #000;
+}
