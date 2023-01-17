@@ -1,5 +1,5 @@
 ## Description 
-This was a fun little project I made in an afternoon to practice my frontend skills, using just Vanilla HTML, CSS and JS.
+This was a fun little project I made in an afternoon to practice my frontend skills, using just vanilla HTML, CSS and JS.
 
 <img width="400" alt="808drumkit Screenshot 2023-01-17 at 12 35 25" src="https://user-images.githubusercontent.com/104037154/212889475-753d9e28-c0be-4d12-8aa3-eb010e66ca39.png">
 
